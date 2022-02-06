@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/css/main.a659989c.css",
+    "main.js": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/js/main.c4a1d329.js",
+    "static/js/787.7d4caaf7.chunk.js": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js",
+    "static/media/dev.png": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/media/dev.5e4a71605936a0dedb57.png",
+    "static/media/tick.png": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/media/tick.a7ad778c33d6e16d7d70.png",
+    "index.html": "/git@github.com:YAUBERNARD/portfolio-demo.git/index.html",
+    "main.a659989c.css.map": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/css/main.a659989c.css.map",
+    "main.c4a1d329.js.map": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/js/main.c4a1d329.js.map",
+    "787.7d4caaf7.chunk.js.map": "/git@github.com:YAUBERNARD/portfolio-demo.git/static/js/787.7d4caaf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a659989c.css",
+    "static/js/main.c4a1d329.js"
+  ]
+}
